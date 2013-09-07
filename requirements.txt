@@ -3,3 +3,8 @@ lxml==3.1beta1
 pyenchant==1.6.5
 pydns>=2.3.6
 BeautifulSoup4
+six
+tweepy
+httplib2
+oauth2
+yql
